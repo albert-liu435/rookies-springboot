@@ -12,6 +12,7 @@
         <module>rookie-springboot-helloworld</module>
         <module>rookie-springboot-banner</module>
         <module>rookie-springboot-properties</module>
+        <module>rookie-springboot-xml</module>
     </modules>
 
 
