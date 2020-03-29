@@ -6,11 +6,11 @@ import org.springframework.context.annotation.ImportResource;
 /**
  * @ClassName Config
  * @Description Config
- * @Author liuxili
+ * @Author
  * @Date 2020/3/26 9:30
  * @Version 1.0
  */
 @Configuration
-@ImportResource("classpath:application.xml")
+@ImportResource("classpath:/bean.xml")
 public class BeanConfig {
 }
