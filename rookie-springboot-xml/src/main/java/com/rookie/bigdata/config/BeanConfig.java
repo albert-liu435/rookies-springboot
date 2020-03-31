@@ -11,6 +11,8 @@ import org.springframework.context.annotation.ImportResource;
  * @Version 1.0
  */
 @Configuration
-@ImportResource("classpath:/bean.xml")
+//@ImportResource("classpath:/bean.xml")
+//@ImportResource(locations = {"classpath:bean.xml"})
+@ImportResource(value = "classpath:/bean.xml")
 public class BeanConfig {
 }
