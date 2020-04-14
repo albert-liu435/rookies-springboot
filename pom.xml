@@ -14,6 +14,7 @@
         <module>rookie-springboot-properties</module>
         <module>rookie-springboot-xml</module>
         <module>rookie-springboot-jdbc</module>
+        <module>rookie-springboot-mybatis</module>
     </modules>
 
 
